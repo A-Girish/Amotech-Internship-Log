@@ -14,7 +14,6 @@ Software & Tools Used:
 * Modscan (for Modbus testing)
 * USB-to-TTL converter (PC communication)
 
-USB-to-TTL converter (PC communication)
 Topics Practiced:
 
 * GPIO programming
