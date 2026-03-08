@@ -1,42 +1,55 @@
-Amotech 8051 Development Board – Training Log
+Amotech Internship Log
 
-This repository documents my hands-on practice using the Amotech 8051
-development kit as preparation for an embedded systems internship.
+Documentation of my work, learning, and projects completed during my Embedded Systems / Automation Developer Internship at Amotech Labs.
 
-Board Used:
+This repository serves as a technical logbook for everything I build, study, and experiment with throughout the 6-month internship period.
 
-* Amotech 8051 Development Board
-* MCU: AT89S52
-* IDE: Keil µVision
-  
-Software & Tools Used:
+The goal is to maintain a structured record of:
 
-* Modscan (for Modbus testing)
-* USB-to-TTL converter (PC communication)
+Practical embedded systems development
 
-Topics Practiced:
+Automation and industrial communication work
 
-* GPIO programming
-* LCD 16x2 interfacing in 4-bit mode
-* 4x4 matrix keypad scanning
-* LCD and keypad integrated systems
-* Password-based lock system
-* Calculator supporting 8/16/32-bit arithmetic
-* UART serial communication
-* Introduction to Modbus RTU protocol
+Firmware development and debugging
 
-Experiments:
+Hardware interfacing and PCB-related learning
 
-* 01 – LED Blinking
-* 02 – LCD Interface Test
-* 03 – LCD and Keypad Interfacing
-* 04 – LCD Keypad Lock System
-* 05 – Calculator
-* 5.1 – Basic calculator using character-to-number conversion
-* 5.2 – Calculator supporting 8-bit, 16-bit and 32-bit arithmetic
-* 06 – Modbus RTU Protocol Prototype
+Tools, frameworks, and protocols explored during the internship
 
+Internship Information
 
-This repository is continuously updated as I progress.
+Role: Embedded Systems / Automation Developer Intern
+Organization: Amotech Labs
+Duration: 6 Months
 
-📺 YouTube Channel: (https://www.youtube.com/@girishkotalwar)
+The internship focuses on gaining hands-on experience in:
+
+Embedded firmware development
+
+Industrial communication protocols
+
+HMI / automation systems
+
+Hardware interfacing
+
+Debugging real embedded systems
+
+Repository Purpose
+
+This repository acts as a centralized learning record during the internship.
+
+It includes:
+
+Drivers developed during projects
+
+Experimental code
+
+Protocol implementations
+
+Automation/HMI work
+
+Weekly or project-based logs
+
+Notes and learning resources
+
+Instead of storing scattered files, everything is organized here as a technical archive of the internship journey.
