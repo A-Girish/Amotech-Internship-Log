@@ -100,4 +100,8 @@ This repository serves as:
 
 This repository contains personal learning documentation and experimental work completed during the internship.
 
+
 No proprietary or confidential information from Amotech Labs is included.
+
+No proprietary or confidential information from Amotech Labs is included.
+
